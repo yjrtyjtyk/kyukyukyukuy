@@ -1,0 +1,3 @@
+def calculate_transaction_fee(transaction):
+    # Calculate transaction fees
+    pass
